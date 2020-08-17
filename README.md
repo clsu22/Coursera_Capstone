@@ -9,7 +9,7 @@ Vancouver, a bustling west coat seaport, is full of business opportunities. Mill
 ![](./img/vancouver.jpg)
 
 ## Data 
-The neighborhood data is scraped from [Wekipedia](https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Vancouver) and corresponding coordinates are obtained using [geocoder](https://geocoder.readthedocs.io/), and all data of venues in each neighborhoods is returned by Foursquare API. There are 20 official neighborhoods, which will be the main research objects.
+The neighborhood data is scraped from [Wekipedia](https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Vancouver) and corresponding coordinates are obtained using [geocoder](https://geocoder.readthedocs.io/), and all data of venues in each neighborhoods is returned by [Foursquare API](https://developer.foursquare.com/). There are 20 official neighborhoods, which will be the main research objects.
 
 ## Analysis 
 
