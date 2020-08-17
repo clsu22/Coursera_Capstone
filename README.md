@@ -1,9 +1,19 @@
-# IBM Data Science Capstone Project
-This repository is used for the IBM Data Science Capstone project on Coursera.
+# IBM Data Science Capstone Project - The Battle of Neighborhoods in Vancouver
+
+This repository is mainly for the IBM Data Science Capstone project on Coursera.
 
 
-## Segementation of neighborhoods in Toronto 
+## Introduction
+Vancouver, a bustling west coat seaport, is full of business opportunities. Millions of tourists come here every year to enjoy the beautiful scenery. So there is always unlimited possibilities for those who want to open their own restraurant. The biggest challenge they are facing is which location is the best which has relatively small competition, large passenger flow and good surrounding resources. To solve this question, the project is going to segment neighborhoods in Vancouver using a popular clustering technique, trying to figure out a solution for potential restaurant investors.
 
-Please go [here](https://nbviewer.jupyter.org/github/clsu22/Coursera_Capstone/blob/master/capstone_project.ipynb) to see the codes and visualization.
+![](./img/vancouver.jpg)
 
-[vis](http://localhost:8888/view/toronto_neighborhood_clustering.html)
+## Analysis 
+
+## Final Report 
+
+
+
+
+
+
