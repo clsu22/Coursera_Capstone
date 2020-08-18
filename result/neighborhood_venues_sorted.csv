@@ -1,21 +1,21 @@
-Neighborhood,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
-Downtown,1,Hotel,Café,Seafood Restaurant,Restaurant,Coffee Shop,Steakhouse,Taco Place,Clothing Store,Theater,Concert Hall
-Dunbar-Southlands,1,Bank,Mexican Restaurant,Cosmetics Shop,Indian Restaurant,Café,Sushi Restaurant,Yoga Studio,Food Court,Food & Drink Shop,Flower Shop
-Fairview,1,Breakfast Spot,Furniture / Home Store,Park,Restaurant,Japanese Restaurant,Arts & Crafts Store,Camera Store,Coffee Shop,Spa,Pharmacy
-Grandview-Woodland,3,Brewery,Coffee Shop,Hotel,Liquor Store,Deli / Bodega,Pub,Electronics Store,Fast Food Restaurant,Nightclub,Chinese Restaurant
-Hastings-Sunrise,1,Bus Station,Coffee Shop,Soccer Field,Bus Stop,Theme Park Ride / Attraction,Sporting Goods Shop,Chinese Restaurant,Bridal Shop,Sushi Restaurant,Fast Food Restaurant
-Kensington-Cedar Cottage,1,Vietnamese Restaurant,Café,Indian Restaurant,Sandwich Place,Burger Joint,Supermarket,Breakfast Spot,Seafood Restaurant,Church,Grocery Store
-Kerrisdale,2,Park,Supermarket,Spanish Restaurant,Café,French Restaurant,Food Court,Food & Drink Shop,Flower Shop,Fish Market,Fast Food Restaurant
-Killarney,4,Pool,Coffee Shop,Yoga Studio,Farmers Market,Food Truck,Food Court,Food & Drink Shop,Flower Shop,Fish Market,Fast Food Restaurant
-Kitsilano,1,Coffee Shop,Park,Yoga Studio,Bank,Café,Pizza Place,Pub,Restaurant,Chinese Restaurant,Italian Restaurant
-Marpole,1,Café,Restaurant,Scenic Lookout,Liquor Store,Bus Stop,Night Market,Shoe Store,Grocery Store,Burger Joint,Harbor / Marina
-Mount Pleasant,3,Brewery,Bakery,Ice Cream Shop,Coffee Shop,Music Store,Middle Eastern Restaurant,Café,Movie Theater,Shop & Service,Chinese Restaurant
-Oakridge,1,Jewelry Store,Electronics Store,Fast Food Restaurant,Coffee Shop,Sushi Restaurant,Shoe Store,Tea Room,Accessories Store,Snack Place,Food Court
-Renfrew-Collingwood,1,Convenience Store,Malay Restaurant,Bus Stop,Supermarket,Sushi Restaurant,Bookstore,Chinese Restaurant,Pizza Place,Ethiopian Restaurant,Falafel Restaurant
-Riley Park,1,Japanese Restaurant,Restaurant,Coffee Shop,Café,Arts & Crafts Store,Grocery Store,Vegetarian / Vegan Restaurant,Furniture / Home Store,Bookstore,Pub
-Shaughnessy,1,Sushi Restaurant,Coffee Shop,Bank,Sporting Goods Shop,Shopping Mall,Vietnamese Restaurant,Bubble Tea Shop,Sandwich Place,Grocery Store,Greek Restaurant
-South Cambie,1,Bus Stop,Chinese Restaurant,Park,Dessert Shop,Gym,Bubble Tea Shop,Sushi Restaurant,Gift Shop,Coffee Shop,Malay Restaurant
-Strathcona,3,Brewery,Coffee Shop,Ice Cream Shop,Discount Store,Hotel,Music Venue,Sandwich Place,Ethiopian Restaurant,Grocery Store,Building
-Sunset,0,Convenience Store,Sandwich Place,Gas Station,Pizza Place,Park,Yoga Studio,Farmers Market,Food & Drink Shop,Flower Shop,Fish Market
-Victoria-Fraserview,0,Pet Store,Park,Convenience Store,Asian Restaurant,Motorcycle Shop,Noodle House,Pizza Place,Middle Eastern Restaurant,Fish Market,Food & Drink Shop
-West End,1,Ramen Restaurant,Dessert Shop,Coffee Shop,Café,Grocery Store,Japanese Restaurant,Restaurant,Breakfast Spot,Bubble Tea Shop,Greek Restaurant
+,Cluster Labels,Neighborhood,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+17,0,Sunset,Convenience Store,Sandwich Place,Gas Station,Pizza Place,Park,Yoga Studio,Farmers Market,Food & Drink Shop,Flower Shop,Fish Market
+18,0,Victoria-Fraserview,Pet Store,Park,Convenience Store,Asian Restaurant,Motorcycle Shop,Noodle House,Pizza Place,Middle Eastern Restaurant,Fish Market,Food & Drink Shop
+0,1,Downtown,Hotel,Café,Seafood Restaurant,Restaurant,Coffee Shop,Steakhouse,Taco Place,Clothing Store,Theater,Concert Hall
+15,1,South Cambie,Bus Stop,Chinese Restaurant,Park,Dessert Shop,Gym,Bubble Tea Shop,Sushi Restaurant,Gift Shop,Coffee Shop,Malay Restaurant
+14,1,Shaughnessy,Sushi Restaurant,Coffee Shop,Bank,Sporting Goods Shop,Shopping Mall,Vietnamese Restaurant,Bubble Tea Shop,Sandwich Place,Grocery Store,Greek Restaurant
+13,1,Riley Park,Japanese Restaurant,Restaurant,Coffee Shop,Café,Arts & Crafts Store,Grocery Store,Vegetarian / Vegan Restaurant,Furniture / Home Store,Bookstore,Pub
+12,1,Renfrew-Collingwood,Convenience Store,Malay Restaurant,Bus Stop,Supermarket,Sushi Restaurant,Bookstore,Chinese Restaurant,Pizza Place,Ethiopian Restaurant,Falafel Restaurant
+11,1,Oakridge,Jewelry Store,Electronics Store,Fast Food Restaurant,Coffee Shop,Sushi Restaurant,Shoe Store,Tea Room,Accessories Store,Snack Place,Food Court
+9,1,Marpole,Café,Restaurant,Scenic Lookout,Liquor Store,Bus Stop,Night Market,Shoe Store,Grocery Store,Burger Joint,Harbor / Marina
+5,1,Kensington-Cedar Cottage,Vietnamese Restaurant,Café,Indian Restaurant,Sandwich Place,Burger Joint,Supermarket,Breakfast Spot,Seafood Restaurant,Church,Grocery Store
+4,1,Hastings-Sunrise,Bus Station,Coffee Shop,Soccer Field,Bus Stop,Theme Park Ride / Attraction,Sporting Goods Shop,Chinese Restaurant,Bridal Shop,Sushi Restaurant,Fast Food Restaurant
+2,1,Fairview,Breakfast Spot,Furniture / Home Store,Park,Restaurant,Japanese Restaurant,Arts & Crafts Store,Camera Store,Coffee Shop,Spa,Pharmacy
+1,1,Dunbar-Southlands,Bank,Mexican Restaurant,Cosmetics Shop,Indian Restaurant,Café,Sushi Restaurant,Yoga Studio,Food Court,Food & Drink Shop,Flower Shop
+8,1,Kitsilano,Coffee Shop,Park,Yoga Studio,Bank,Café,Pizza Place,Pub,Restaurant,Chinese Restaurant,Italian Restaurant
+19,1,West End,Ramen Restaurant,Dessert Shop,Coffee Shop,Café,Grocery Store,Japanese Restaurant,Restaurant,Breakfast Spot,Bubble Tea Shop,Greek Restaurant
+6,2,Kerrisdale,Park,Supermarket,Spanish Restaurant,Café,French Restaurant,Food Court,Food & Drink Shop,Flower Shop,Fish Market,Fast Food Restaurant
+10,3,Mount Pleasant,Brewery,Bakery,Ice Cream Shop,Coffee Shop,Music Store,Middle Eastern Restaurant,Café,Movie Theater,Shop & Service,Chinese Restaurant
+3,3,Grandview-Woodland,Brewery,Coffee Shop,Hotel,Liquor Store,Deli / Bodega,Pub,Electronics Store,Fast Food Restaurant,Nightclub,Chinese Restaurant
+16,3,Strathcona,Brewery,Coffee Shop,Ice Cream Shop,Discount Store,Hotel,Music Venue,Sandwich Place,Ethiopian Restaurant,Grocery Store,Building
+7,4,Killarney,Pool,Coffee Shop,Yoga Studio,Farmers Market,Food Truck,Food Court,Food & Drink Shop,Flower Shop,Fish Market,Fast Food Restaurant
