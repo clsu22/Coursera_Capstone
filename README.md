@@ -12,8 +12,17 @@ Vancouver, a bustling west coat seaport, is full of business opportunities. Mill
 The neighborhood data is scraped from [Wekipedia](https://en.wikipedia.org/wiki/List_of_neighbourhoods_in_Vancouver) and corresponding coordinates are obtained using [geocoder](https://geocoder.readthedocs.io/), and all data of venues in each neighborhoods is returned by [Foursquare API](https://developer.foursquare.com/). There are 20 official neighborhoods, which will be the main research objects.
 
 ## Analysis 
+Please refer to [here](https://github.com/clsu22/IBM-Capstone-Project/blob/master/src/Final-Project-Analysis.ipynb) to see the whole analysis.
 
 ## Final Report 
+Please refer to [here](https://github.com/clsu22/IBM-Capstone-Project/blob/master/doc/Final-report.md) to see the final report.
+
+## Blogpost
+Please refer to [here](https://clsu22.github.io/IBM_Capstone_Project/) to see my blogpost.
+
+
+
+
 
 
 
