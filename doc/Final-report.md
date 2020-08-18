@@ -5,6 +5,18 @@ Haoyu Su
 Updated:
 August 17, 2020
 
+  - [Introduction](#introduction)
+  - [Data](#data)
+  - [Methods](#methods)
+      - [Data Acquisition](#data-acquisition)
+      - [Data Preprocessing](#data-preprocessing)
+      - [Model Development](#model-development)
+  - [Result](#result)
+      - [EDA](#eda)
+      - [Clustering](#clustering)
+  - [Discussion](#discussion)
+  - [Conclusion](#conclusion)
+
 ![](../img/vancouver.jpg)
 
 # Introduction
